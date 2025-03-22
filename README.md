@@ -1,2 +1,1 @@
-# uratujdu.pe
-Serwer DNS który ratuje dupe! (blokowanie Vulcan'a i Librusa)
+<center># UratujDu.pe</center>
